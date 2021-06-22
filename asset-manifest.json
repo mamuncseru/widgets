@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/mamuncseru.github.io/widgets/static/js/main.7eee4960.chunk.js",
-    "main.js.map": "/mamuncseru.github.io/widgets/static/js/main.7eee4960.chunk.js.map",
-    "runtime-main.js": "/mamuncseru.github.io/widgets/static/js/runtime-main.f96155d4.js",
-    "runtime-main.js.map": "/mamuncseru.github.io/widgets/static/js/runtime-main.f96155d4.js.map",
-    "static/js/2.e0c50663.chunk.js": "/mamuncseru.github.io/widgets/static/js/2.e0c50663.chunk.js",
-    "static/js/2.e0c50663.chunk.js.map": "/mamuncseru.github.io/widgets/static/js/2.e0c50663.chunk.js.map",
-    "index.html": "/mamuncseru.github.io/widgets/index.html",
-    "static/js/2.e0c50663.chunk.js.LICENSE.txt": "/mamuncseru.github.io/widgets/static/js/2.e0c50663.chunk.js.LICENSE.txt"
+    "main.js": "/widgets/static/js/main.7eee4960.chunk.js",
+    "main.js.map": "/widgets/static/js/main.7eee4960.chunk.js.map",
+    "runtime-main.js": "/widgets/static/js/runtime-main.7522ae43.js",
+    "runtime-main.js.map": "/widgets/static/js/runtime-main.7522ae43.js.map",
+    "static/js/2.e0c50663.chunk.js": "/widgets/static/js/2.e0c50663.chunk.js",
+    "static/js/2.e0c50663.chunk.js.map": "/widgets/static/js/2.e0c50663.chunk.js.map",
+    "index.html": "/widgets/index.html",
+    "static/js/2.e0c50663.chunk.js.LICENSE.txt": "/widgets/static/js/2.e0c50663.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f96155d4.js",
+    "static/js/runtime-main.7522ae43.js",
     "static/js/2.e0c50663.chunk.js",
     "static/js/main.7eee4960.chunk.js"
   ]
